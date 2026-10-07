@@ -1,0 +1,152 @@
+Time,Track ID,Event,Details
+00:00,Person-1,PERSON ENTERED,New person detected
+00:00,Person-5,PERSON ENTERED,New person detected
+00:01,Person-9,PERSON ENTERED,New person detected
+00:01,Person-10,PERSON ENTERED,New person detected
+00:01,Person-9,PERSON LEFT,Previously tracked person disappeared
+00:01,Person-10,PERSON LEFT,Previously tracked person disappeared
+00:01,Person-9,PERSON ENTERED,New person detected
+00:01,Multiple,MULTIPLE PEOPLE,3 people detected
+00:01,Person-9,PERSON LEFT,Previously tracked person disappeared
+00:01,Person-11,PERSON ENTERED,New person detected
+00:01,Person-11,PERSON LEFT,Previously tracked person disappeared
+00:01,Person-9,PERSON ENTERED,New person detected
+00:01,Person-9,PERSON LEFT,Previously tracked person disappeared
+00:01,Person-9,PERSON ENTERED,New person detected
+00:01,Person-9,PERSON LEFT,Previously tracked person disappeared
+00:01,Person-9,PERSON ENTERED,New person detected
+00:01,Person-9,PERSON LEFT,Previously tracked person disappeared
+00:01,Person-9,PERSON ENTERED,New person detected
+00:02,Person-9,PERSON LEFT,Previously tracked person disappeared
+00:02,Person-9,PERSON ENTERED,New person detected
+00:02,Person-9,PERSON LEFT,Previously tracked person disappeared
+00:02,Person-9,PERSON ENTERED,New person detected
+00:02,Person-9,PERSON LEFT,Previously tracked person disappeared
+00:02,Person-5,PERSON LEFT,Previously tracked person disappeared
+00:03,Person-16,PERSON ENTERED,New person detected
+00:03,Multiple,MULTIPLE PEOPLE,2 people detected
+00:03,Person-29,PERSON ENTERED,New person detected
+00:03,Person-29,PERSON LEFT,Previously tracked person disappeared
+00:03,Person-1,PERSON LEFT,Previously tracked person disappeared
+00:03,Person-29,PERSON ENTERED,New person detected
+00:03,Person-30,PERSON ENTERED,New person detected
+00:03,Person-30,PERSON LEFT,Previously tracked person disappeared
+00:04,Person-29,PERSON LEFT,Previously tracked person disappeared
+00:04,Person-33,PERSON ENTERED,New person detected
+00:04,Person-34,PERSON ENTERED,New person detected
+00:04,Person-34,PERSON LEFT,Previously tracked person disappeared
+00:04,Person-33,PERSON LEFT,Previously tracked person disappeared
+00:05,Person-16,PERSON LEFT,Previously tracked person disappeared
+00:05,Person-16,PERSON ENTERED,New person detected
+00:05,Person-16,PERSON LEFT,Previously tracked person disappeared
+00:07,Person-42,PERSON ENTERED,New person detected
+00:09,Person-44,PERSON ENTERED,New person detected
+00:09,Person-37,PERSON ENTERED,New person detected
+00:09,Person-42,PERSON LEFT,Previously tracked person disappeared
+00:09,Person-37,PERSON LEFT,Previously tracked person disappeared
+2026-10-07,14:41:00,PERSON ENTERED,Person ID:1,Person entered monitoring area,
+2026-10-07,14:41:20,PHONE DETECTED,Student,Cell phone detected,0.82
+2026-10-07,14:41:27,PERSON ENTERED,Person ID:15,Person entered monitoring area,
+2026-10-07,14:41:28,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:41:31,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:42:09,PERSON ENTERED,Person ID:1,Person entered monitoring area,
+2026-10-07,14:42:18,PHONE DETECTED,Student,Cell phone detected,0.50
+2026-10-07,14:42:21,PHONE DETECTED,Student,Cell phone detected,0.48
+2026-10-07,14:42:25,PHONE DETECTED,Student,Cell phone detected,0.77
+2026-10-07,14:42:39,PERSON ENTERED,Person ID:12,Person entered monitoring area,
+2026-10-07,14:44:21,PERSON ENTERED,Person ID:1,Person entered monitoring area,
+2026-10-07,14:44:25,PERSON LEFT,Person ID:1,Person left monitoring area,
+2026-10-07,14:44:29,PERSON ENTERED,Person ID:3,Person entered monitoring area,
+2026-10-07,14:44:30,PERSON LEFT,Person ID:3,Person left monitoring area,
+2026-10-07,14:44:37,STUDENT ABSENT,Student,Absent for 5.0 seconds,
+2026-10-07,14:44:40,STUDENT ABSENT,Student,Absent for 8.1 seconds,
+2026-10-07,14:44:43,PERSON ENTERED,Person ID:10,Person entered monitoring area,
+2026-10-07,14:44:43,PERSON LEFT,Person ID:10,Person left monitoring area,
+2026-10-07,14:44:48,STUDENT ABSENT,Student,Absent for 5.0 seconds,
+2026-10-07,14:44:51,STUDENT ABSENT,Student,Absent for 8.5 seconds,
+2026-10-07,14:44:53,PERSON ENTERED,Person ID:17,Person entered monitoring area,
+2026-10-07,14:44:53,PERSON LEFT,Person ID:17,Person left monitoring area,
+2026-10-07,14:45:21,PERSON ENTERED,Person ID:24,Person entered monitoring area,
+2026-10-07,14:45:22,PERSON LEFT,Person ID:24,Person left monitoring area,
+2026-10-07,14:45:47,PERSON ENTERED,Person ID:29,Person entered monitoring area,
+2026-10-07,14:45:47,PERSON LEFT,Person ID:29,Person left monitoring area,
+2026-10-07,14:46:06,PERSON ENTERED,Person ID:37,Person entered monitoring area,
+2026-10-07,14:46:06,PERSON LEFT,Person ID:37,Person left monitoring area,
+2026-10-07,14:46:09,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:46:10,PERSON LEFT,Person ID:37,Person left monitoring area,
+2026-10-07,14:46:13,PERSON ENTERED,Person ID:39,Person entered monitoring area,
+2026-10-07,14:46:13,PERSON LEFT,Person ID:39,Person left monitoring area,
+2026-10-07,14:46:30,PERSON ENTERED,Person ID:44,Person entered monitoring area,
+2026-10-07,14:46:31,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:46:34,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:46:35,PERSON LEFT,Person ID:44,Person left monitoring area,
+2026-10-07,14:46:42,PERSON ENTERED,Person ID:49,Person entered monitoring area,
+2026-10-07,14:46:42,PERSON LEFT,Person ID:49,Person left monitoring area,
+2026-10-07,14:46:44,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:46:46,PERSON ENTERED,Person ID:54,Person entered monitoring area,
+2026-10-07,14:46:46,PERSON LEFT,Person ID:50,Person left monitoring area,
+2026-10-07,14:46:47,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:46:50,PERSON ENTERED,Person ID:54,Person entered monitoring area,
+2026-10-07,14:46:52,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:46:52,PERSON LEFT,Person ID:62,Person left monitoring area,
+2026-10-07,14:46:58,PERSON ENTERED,Person ID:64,Person entered monitoring area,
+2026-10-07,14:46:58,PERSON LEFT,Person ID:64,Person left monitoring area,
+2026-10-07,14:47:01,PERSON ENTERED,Person ID:66,Person entered monitoring area,
+2026-10-07,14:47:02,PERSON LEFT,Person ID:66,Person left monitoring area,
+2026-10-07,14:47:03,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:47:06,PERSON ENTERED,Person ID:67,Person entered monitoring area,
+2026-10-07,14:47:07,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:47:09,PERSON LEFT,Person ID:67,Person left monitoring area,
+2026-10-07,14:47:09,PERSON ENTERED,Person ID:67,Person entered monitoring area,
+2026-10-07,14:47:11,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:47:13,PERSON LEFT,Person ID:67,Person left monitoring area,
+2026-10-07,14:47:13,PERSON ENTERED,Person ID:67,Person entered monitoring area,
+2026-10-07,14:47:17,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:47:17,PERSON LEFT,Person ID:67,Person left monitoring area,
+2026-10-07,14:47:17,PERSON ENTERED,Person ID:67,Person entered monitoring area,
+2026-10-07,14:47:22,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:47:23,PERSON LEFT,Person ID:67,Person left monitoring area,
+2026-10-07,14:47:23,PERSON ENTERED,Person ID:67,Person entered monitoring area,
+2026-10-07,14:47:26,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:47:29,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:47:30,PERSON LEFT,Person ID:67,Person left monitoring area,
+2026-10-07,14:47:30,PERSON ENTERED,Person ID:67,Person entered monitoring area,
+2026-10-07,14:47:33,PERSON LEFT,Person ID:67,Person left monitoring area,
+2026-10-07,14:47:33,PERSON ENTERED,Person ID:67,Person entered monitoring area,
+2026-10-07,14:47:34,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:47:37,PERSON ENTERED,Person ID:82,Person entered monitoring area,
+2026-10-07,14:47:37,PERSON LEFT,Person ID:82,Person left monitoring area,
+2026-10-07,14:47:40,PERSON ENTERED,Person ID:67,Person entered monitoring area,
+2026-10-07,14:47:41,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:47:45,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:51:31,PERSON ENTERED,Person ID:1,Person entered examination area,
+2026-10-07,14:51:31,PERSON LEFT,Person ID:2,Person left examination area,
+2026-10-07,14:51:38,PERSON ENTERED,Person ID:5,Person entered examination area,
+2026-10-07,14:51:38,PERSON LEFT,Person ID:5,Person left examination area,
+2026-10-07,14:51:43,PERSON ENTERED,Person ID:8,Person entered examination area,
+2026-10-07,14:51:43,PERSON LEFT,Person ID:8,Person left examination area,
+2026-10-07,14:51:45,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:51:50,PERSON ENTERED,Person ID:8,Person entered examination area,
+2026-10-07,14:51:50,PERSON LEFT,Person ID:8,Person left examination area,
+2026-10-07,14:51:53,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:51:55,PERSON ENTERED,Person ID:26,Person entered examination area,
+2026-10-07,14:51:56,PERSON LEFT,Person ID:27,Person left examination area,
+2026-10-07,14:51:58,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:52:01,PERSON LEFT,Person ID:30,Person left examination area,
+2026-10-07,14:52:02,PERSON ENTERED,Person ID:26,Person entered examination area,
+2026-10-07,14:52:08,PERSON ENTERED,Person ID:33,Person entered examination area,
+2026-10-07,14:52:08,PERSON LEFT,Person ID:33,Person left examination area,
+2026-10-07,14:52:20,PERSON ENTERED,Person ID:39,Person entered examination area,
+2026-10-07,14:52:20,PERSON LEFT,Person ID:39,Person left examination area,
+2026-10-07,14:52:21,MULTIPLE PEOPLE,Exam Area,3 people detected,
+2026-10-07,14:52:26,MULTIPLE PEOPLE,Exam Area,3 people detected,
+2026-10-07,14:52:29,PERSON LEFT,Person ID:40,Person left examination area,
+2026-10-07,14:52:29,PERSON ENTERED,Person ID:40,Person entered examination area,
+2026-10-07,14:52:31,MULTIPLE PEOPLE,Exam Area,3 people detected,
+2026-10-07,14:52:33,PHONE DETECTED,Student,Cell phone visible in examination area,
+2026-10-07,14:52:36,PERSON LEFT,Person ID:40,Person left examination area,
+2026-10-07,14:52:36,PERSON ENTERED,Person ID:40,Person entered examination area,
+2026-10-07,14:52:36,MULTIPLE PEOPLE,Exam Area,3 people detected,
+2026-10-07,14:52:41,MULTIPLE PEOPLE,Exam Area,2 people detected,
+2026-10-07,14:52:44,PERSON ENTERED,Person ID:62,Person entered examination area,
+2026-10-07,14:52:44,PERSON LEFT,Person ID:57,Person left examination area,
